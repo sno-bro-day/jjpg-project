@@ -1,0 +1,119 @@
+body {
+  background-image: url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIepEkJiK90XL3olE5b1YM2ABEU2Tn4yVUpx9_pmN-ExvyEUvu');
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+.header {
+  padding-left: 45px;
+  padding-right: 300px;
+  background-color: rgb(27, 4, 42);
+  border-radius: 20px;
+  padding-top: 2px;
+}
+
+img {
+  border-radius: 22px;
+  width: 210px;
+  transition: transform 1s, filter 3s, all 2s;
+  filter: brightness(85%);
+}
+
+img:hover{
+  transform: translate(0, -2.5px);
+  transition: transform 1s, filter 1s, all 1s;
+  filter: brightness(100%);
+  box-shadow: 7px 7px 4px rgba(27, 4, 40, 0.5);
+}
+
+img:active {
+  transition: all 2s;
+  filter: brightness(25%);
+}
+
+hr {
+  color: rgb(80,60,70);
+  border-color: rgb(80,60,70);
+  border-radius: 200px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 22px;
+  color: white;
+  text-shadow: 0px 0px 0.5px rgb(200,200,200);
+  padding-left: 15px;
+}
+
+.game-container {
+  position: relative;
+  width: 900px;
+  margin-left: 20px;
+}
+
+.game-iframe {
+  position: relative;
+  z-index: 1;
+  border-radius: 12px;
+  background-color: rgba(260, 85, 275, 0.1);
+  padding-bottom: 55px;
+  width: 780;
+  margin-left: 20px;
+}
+
+.fullscreen-btn-container {
+  position: absolute;
+  top: 608px;
+  right: 80px;
+  z-index: 100;
+}
+
+h4 {
+  z-index: 99px;
+  position: absolute;
+  font-size: 25px;
+  font-family: arial;
+  color: white;
+  top: 578px;
+  right: 590px;
+}
+
+.btn, .btn-capsule {
+  display: flex;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  border-radius: 12px;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.btn:active {
+  background-color: #3e8e41;
+}
+
+footer {
+  background-color: rgba(66,61,61,0.1);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  border-radius: 200px;
+  text-align: center;
+  margin-right: 45px;
+}
+
+.center {
+  margin-top: 155px;
+  text-align: center;
+}

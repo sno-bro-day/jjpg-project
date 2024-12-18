@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  padding-top: 70px;
+  font-family: sans-serif;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  margin-top: 15px;
+  font-family: sans-serif;
+  size: 20px;
+  color: white;
+}

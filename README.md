@@ -13,11 +13,11 @@ Another unblocked games website. Though this one looks like it was copied straig
 * Quick Switch for redirecting to Google Drive manually (by pressing 'q' on the home page) ⚡
 
 ## Usage:
-Just go to the current link and play whatever you want. If you want to fork, please give me some credit. I worked hard on this. (editor: i forgot who made this oringally sorry)
+Just go to the current link and play whatever you want. If you want to fork, please give me some credit. I worked hard on this.
 
 ## Contributing:
-If you wanna help contribute we will try to make a system for people to help (for now there's nothin)
+I would be very greatful if someone took the time to help me with this project. I've been working on this for WAY too long by myself.
 
 ## How to contact me:
 Email: none yet
-## current version: 2.0.0 🥳🥳
+## current version: 1.2.6
